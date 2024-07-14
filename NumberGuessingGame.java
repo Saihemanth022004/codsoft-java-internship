@@ -31,7 +31,7 @@ public class NumberGuessingGame {
                     System.out.println("Too high!");
                 } else {
                     guessedCorrectly = true;
-                    System.out.println("Congratulations! You've guessed the correct number!");
+                    System.out.println("Congratulations! Your guess is correct!");
                 }
             }
 
